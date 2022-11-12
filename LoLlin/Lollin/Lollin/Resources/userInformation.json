@@ -1,0 +1,90 @@
+[
+    {
+        "id" : "1",
+        "userName" : "내프로필이야",
+        "userImage" : "lolprofile1",
+        "userTier" : "platinum",
+        "win" : 5,
+        "lose" : 2,
+        "color" : "lightgray",
+		"isGamming" : true,
+        "mostChampion" : "Yasuo"
+    },
+    {
+        "id" : "2",
+        "userName" : "절망노력극복성공",
+        "userImage" : "lolprofile2",
+        "userTier" : "silver",
+        "win" : 3,
+        "lose" : 6,
+        "color" : "lightgray",
+		"isGamming" : true,
+        "mostChampion" : "Yumi"
+    },
+    {
+        "id" : "3",
+        "userName" : "프레이왈더",
+        "userImage" : "lolprofile3",
+        "userTier" : "gold",
+        "win" : 7,
+        "lose" : 0,
+        "color" : "lightgray",
+		"isGamming" : true,
+        "mostChampion" : "Blitz"
+    },
+    {
+        "id" : "4",
+        "userName" : "모르게쒀염",
+        "userImage" : "lolprofile4",
+        "userTier" : "gold",
+        "win" : 2,
+        "lose" : 9,
+        "color" : "lightgray",
+		"isGamming" : false,
+        "mostChampion" : "Lux"
+    },
+    {
+        "id" : "5",
+        "userName" : "햄주먹0",
+        "userImage" : "lolprofile5",
+        "userTier" : "silver",
+        "win" : 7,
+        "lose" : 5,
+        "color" : "lightgray",
+		"isGamming" : false,
+        "mostChampion" : "Shen"
+    },
+    {
+        "id" : "6",
+        "userName" : "hide on bush",
+        "userImage" : "lolprofile6",
+        "userTier" : "gold",
+        "win" : 7,
+        "lose" : 7,
+        "color" : "lightgray",
+		"isGamming" : false,
+        "mostChampion" : "Ari"
+    },
+    {
+        "id" : "7",
+        "userName" : "죽기장인",
+        "userImage" : "lolprofile2",
+        "userTier" : "silver",
+        "win" : 7,
+        "lose" : 0,
+        "color" : "lightgray",
+		"isGamming" : false,
+        "mostChampion" : "Timo"
+    },
+    {
+        "id" : "8",
+        "userName" : "에이미안좋아요",
+        "userImage" : "lolprofile4",
+        "userTier" : "platinum",
+        "win" : 2,
+        "lose" : 3,
+        "color" : "lightgray",
+		"isGamming" : false,
+        "mostChampion" : "Jinx"
+    }
+]
